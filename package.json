@@ -1,0 +1,16 @@
+{
+  "name": "node_user_restapi",
+  "version": "1.0.0",
+  "description": "Creating a rest api to display and create summer student user profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jake Xia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
